@@ -1,3 +1,7 @@
+DPRECATED
+=========
+Use instead MySQLiManager (http://github.com/pabhoz/MySQLiManager)
+
 EasyDBManager
 =============
 
